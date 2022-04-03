@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Lucas Eduardo
+## Olá! Eu sou o Lucas Eduardo
   <div>
   <a href="https://github.com/Daruedo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Daruedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
